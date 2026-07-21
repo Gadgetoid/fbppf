@@ -1,0 +1,8 @@
+{
+    "urls": [
+        ["ppf.py", "github:gadgetoid/fbppf/ppf.py"],
+        ["ppf_viper.py", "github:gadgetoid/fbppf/ppf_viper.py"]
+    ],
+    "deps": [],
+    "version": "0.1.0"
+}
